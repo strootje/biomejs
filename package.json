@@ -1,0 +1,11 @@
+{
+  "name": "@strootje/biomejs",
+  "version": "1.0.2",
+  "license": "MIT",
+  "exports": {
+    "./strict": "./biome.strict.json"
+  },
+  "peerDependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
+}
