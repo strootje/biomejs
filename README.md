@@ -1,9 +1,9 @@
+[![@strootje/biomejs](https://jsr-badge.deno.dev/@strootje/biomejs/stable.svg)](https://jsr.io/@strootje/biomejs)
+[![publish.yml](https://github.com/strootje/biomejs/actions/workflows/publish.yml/badge.svg)](https://github.com/strootje/biomejs/actions/workflows/publish.yml)
+
 # Biome Config
 
 Shared [Biome](https://biomejs.dev/) linting/formatting configuration.
-
-- [Usage](#usage)
-- [License](#license)
 
 ## Usage
 
