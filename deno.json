@@ -1,0 +1,8 @@
+{
+  "name": "@strootje/biomejs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    "./biome": "./biome.json"
+  }
+}
